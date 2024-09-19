@@ -4,7 +4,7 @@ First of all, the system must have card compatible with the I210 (igb) driver fr
 
 Then install the Ni Industrial Communications for EtherCAT using the NI MAX.
 
-Edit the /etc/natinst/share/ni-rt.ini to add the section following section:
+Edit the `/etc/natinst/share/ni-rt.ini` to add the section following section:
 
 ```ini
 [<ethercatNetworkInterfaceName>]
